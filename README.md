@@ -1,0 +1,1 @@
+# Circulo-de-mohr-para-esfuerzos
